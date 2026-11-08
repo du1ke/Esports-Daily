@@ -1,4 +1,4 @@
-# 电竞每日任务
+# 完美电竞选手自动评分-增加主队等级
 
 适用于 Windows x64。请在仓库的 Releases 页面下载最新版 ZIP，解压整个文件夹后运行 `Esports-Daily.exe`。
 
